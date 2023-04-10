@@ -8,7 +8,7 @@
     1. Click the *Continue* Button.
 1. Create your username.
     1. Suggestion to use the username you used for your google email.
-    1. Click the *Continute* Button.
+    1. Click the *Continue* Button.
 1. Answere the question: Would you like to receive product updates and announcements via email?
     1. Click the *Continute* Button.
 1. Verify your account.
