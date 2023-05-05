@@ -6,9 +6,10 @@ As you start on your journey to a career in tech, you will need a professional e
 
 1. Go to [Google.com](https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Fwww.google.com%2F%3Fclient%3Dsafari&hl=en&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp)
 
-    ![Google account creation page](images/Step1GoogleAccountCreation.png)
 
 1. Fill in the form where prompted with name, username and password.
+
+    ![Google account creation page](images/Step1GoogleAccountCreation.png)
 
     1. Suggest some combination of your name, examples for Venus Moonchaser:
         1. FirstNameInitial + LastName = vmoonchaser@gmail.com
@@ -34,7 +35,6 @@ As you start on your journey to a career in tech, you will need a professional e
     ![Google's privacy and terms](images/Step3GoogleAccountCreation.png)
 
     1. Click the *Accept* Button.
-
         1. Located at the bottom of the page when you scroll to read the privacy terms.
  
 1. Congratulations you have made your account!
